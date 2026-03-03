@@ -99,5 +99,18 @@
     <None Include="SYNC_AND_BUILD_CHECKLIST.md" />
     <None Include="TECHNICAL_VERIFICATION_GUIDE.md" />
     <None Include="ANALYSIS_SUMMARY.md" />
+    <None Include="OpenCV.props" />
+    <None Include="PERFORMANCE_FIX_GUIDE.md" />
+    <None Include="setup_opencv.bat">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="SETUP_INSTRUCTIONS.md" />
+    <None Include="diagnostic.bat">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="README_BUILD_GUIDE.md" />
+    <None Include="setup_build_environment.ps1" />
+    <None Include="TEAM_CHECKLIST.md" />
+    <None Include="FINAL_SUMMARY.md" />
   </ItemGroup>
 </Project>
